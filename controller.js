@@ -171,15 +171,15 @@ const availableEndpoints = [
   },
   {
     method: "GET",
-    getMath: "/api/maths?op=!&x=&y="
+    getMath: "/api/maths?op=!&n="
   },
   {
     method: "GET",
-    getMath: "/api/maths?op=p&x=&y="
+    getMath: "/api/maths?op=p&n="
   },
   {
     method: "GET",
-    getMath: "/api/maths?op=np&x=&y="
+    getMath: "/api/maths?op=np&n="
   },
 
 ]
